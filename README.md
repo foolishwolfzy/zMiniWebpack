@@ -1,0 +1,1 @@
+#运行：node webpack.js 进行打包，然后运行dist文件夹的mian.js
